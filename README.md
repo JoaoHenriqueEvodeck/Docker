@@ -21,7 +21,7 @@ A container is launched by running an image. An image is an executable package t
 
 A container is a runtime instance of an image--what the image becomes in memory when executed (that is, an image with state, or a user process). You can see a list of your running containers with the command, docker ps, just as you would in Linux.
 
-## First container app
+## Docker image set-up
 
 ### Create the API
 
